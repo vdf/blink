@@ -1,3 +1,3 @@
-# Blink
+# ARTEM
 
 Пример для Arduino board.
