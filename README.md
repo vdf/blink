@@ -1,3 +1,3 @@
-# Blink
+# Дима
 
 Пример для Arduino board.
