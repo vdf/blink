@@ -1,4 +1,4 @@
 # Blink
 
-Пример для Arduino board.
 Привет
+Пример для Arduino board.
