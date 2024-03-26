@@ -1,3 +1,3 @@
 # Blink
 
-Пример для Arduino board.
+Пример для Arduino board..
